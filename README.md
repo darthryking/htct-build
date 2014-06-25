@@ -3,6 +3,8 @@ htct-build
 
 Materials necessary to build the Hazard Team Compile Tool.
 
+Current version: ___0.2.0 BETA___
+
 
 ###Requirements
 * Python 2.7
@@ -14,5 +16,5 @@ Materials necessary to build the Hazard Team Compile Tool.
 
 ###To Build
 1. Ensure that the above requirements are installed.
-2. Run 'build_htct.bat'
+2. Run `build_htct.bat`
 3. Done!
