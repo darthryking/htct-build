@@ -1,0 +1,1 @@
+pyinstaller main.py --onefile --noconsole -i htct.ico --name=htct
