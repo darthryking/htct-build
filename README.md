@@ -16,5 +16,6 @@ Current version: ___0.2.0 BETA___
 
 ###To Build
 1. Ensure that the above requirements are installed.
-2. Run `build_htct.bat`
+2. Run `build_htct.bat`.
+3. A new folder `dist` will appear with `htct.exe` inside.
 3. Done!
