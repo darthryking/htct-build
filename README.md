@@ -3,7 +3,7 @@ htct-build
 
 Materials necessary to build the Hazard Team Compile Tool.
 
-Current version: ___0.2.0 BETA___
+Current version: ___0.2.1 BETA___
 
 
 ###Requirements
