@@ -2,6 +2,8 @@ import sys
 import Queue
 import shutil
 
+import psutil
+
 from PySide import QtCore, QtGui
 
 import htct

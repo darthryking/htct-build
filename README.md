@@ -3,13 +3,14 @@ htct-build
 
 Materials necessary to build the Hazard Team Compile Tool.
 
-Current version: ___0.2.1 BETA___
+Current version: ___0.3.0 BETA___
 
 
 ###Requirements
 * Python 2.7
 * PyInstaller 2.1
 * PySide 1.2.1 or equivalent
+* psutil 2.1.1
 
 ###Optional Requirements
 * UPX 3.91 or equivalent (for PYD and executable compression)
