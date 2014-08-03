@@ -4,8 +4,8 @@ htct-build
 Copyright © 2014 by DKY (Ryan Lam)
 
 The files in this repository comprise the core materials that are necessary to 
-build the Hazard Team Compile Tool. They have been provided here, free of 
-charge, for anyone's use in building their own htct.exe executable.
+build the __Hazard Team Compile Tool__. They have been provided here, free of 
+charge, for anyone's use in building their own `htct.exe` executable.
 
 
 Current version: ___0.3.1 BETA___
