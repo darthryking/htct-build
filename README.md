@@ -18,7 +18,7 @@ Current version: ___0.3.1 BETA___
 * psutil 2.1.1
 
 A `requirements.txt` file has been provided in this repository for (optional) 
-convenient dependency installation.
+convenient dependency installation with pip.
 
 ###Optional Requirements
 * UPX 3.91 or equivalent (for PYD and executable compression)
