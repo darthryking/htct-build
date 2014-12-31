@@ -8,14 +8,14 @@ build the __Hazard Team Compile Tool__. They have been provided here, free of
 charge, for anyone's use in building their own `htct.exe` executable.
 
 
-Current version: ___0.3.1 BETA___
+Current version: ___0.3.2 BETA___
 
 
 ###Requirements
 * Python 2.7
 * PyInstaller 2.1
-* PySide 1.2.1 or equivalent
-* psutil 2.1.1
+* PySide 1.2.2 or equivalent
+* psutil 2.1.3
 
 ###Optional Requirements
 * UPX 3.91 or equivalent (for PYD and executable compression)
