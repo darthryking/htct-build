@@ -17,6 +17,9 @@ Current version: ___0.3.2 BETA___
 * PySide 1.2.2 or equivalent
 * psutil 2.1.3
 
+A `requirements.txt` file has been provided in this repository for (optional) 
+convenient dependency installation with pip.
+
 ###Optional Requirements
 * UPX 3.91 or equivalent (for PYD and executable compression)
 
