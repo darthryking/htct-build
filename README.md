@@ -8,7 +8,7 @@ build the __Hazard Team Compile Tool__. They have been provided here, free of
 charge, for anyone's use in building their own `htct.exe` executable.
 
 
-Current version: ___0.4.0 BETA___
+Current version: ___0.4.1 BETA___
 
 
 ###Requirements
