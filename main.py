@@ -1,10 +1,10 @@
 import sys
-import Queue
+import queue
 import shutil
 
 import psutil
 
-from PySide import QtCore, QtGui
+from PySide2 import QtCore, QtGui, QtWidgets
 
 import htct
 import mainwindow
